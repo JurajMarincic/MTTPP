@@ -1,5 +1,5 @@
 # MTTPP
-Kod se nalazi na master branchu.
+Kod se nalazi na master branchu. Također, preview je malo nabacan u "Code" verziji readme je urednije.
 
 public void setupTest() - Before metoda, locira googledriver te ga navigira na google.com
 public void amazonSearchTest() - Upisuje "amazon" u google te searcha, nakon toga locira Amazon.com stranicu te klika na nju, test pada ako se naslov stranice ne poklapa
